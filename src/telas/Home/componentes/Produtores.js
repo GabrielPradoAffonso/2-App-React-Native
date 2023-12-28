@@ -2,18 +2,11 @@ import React, { useEffect, useState } from "react";
 import { SafeAreaView, Text, Image, StyleSheet, FlatList } from 'react-native';
 
 import Produtor from "./Produtor";
-import { carregaProdutores } from "../../../servicos/carregaDados";
+import useProdutores from "../../../hooks/useProdutores";
 
 export default function Produtores({ topo: Topo })  {
-    const[titulo, setTitulo] = useState('');
-    const[lista, setLista] = useState([]);
-
-    useEffect(() => {
-        const retorno = carregaProdutores();
-        setTitulo(retorno.titulo)
-        setLista(retorno.lista)
-    }, []);
-
+    const [titulo, lista] = useProdutores();
+    
     const topoDaLista = () => {
         return <>
             <Topo />
@@ -37,7 +30,4 @@ const estilo = StyleSheet.create({
         marginTop: 16,
         fontWeight: "bold",
     },
-    lista: {
-
-    }
 })
