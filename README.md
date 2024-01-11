@@ -29,7 +29,7 @@ Make sure you have Node.js, npm (Node Package Manager), and React Native CLI ins
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/GabrielPradoAffonso/orgs-hooks.git
+    git clone https://github.com/GabrielPradoAffonso/2-App-React-Native.git
     cd orgs-hooks
     ```
 
@@ -107,7 +107,7 @@ Certifique-se de ter o Node.js, npm (Node Package Manager) e React Native CLI in
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/GabrielPradoAffonso/orgs-hooks.git
+    git clone https://github.com/GabrielPradoAffonso/2-App-React-Native.git
     cd orgs-hooks
     ```
 
