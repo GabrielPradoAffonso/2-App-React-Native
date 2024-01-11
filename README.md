@@ -23,14 +23,14 @@ Follow these instructions to set up and run the OrgsHooks application on your lo
 
 ### Prerequisites
 
-Make sure you have Node.js, npm (Node Package Manager), and React Native CLI installed on your machine. You can find the installation instructions [here](https://reactnative.dev/docs/environment-setup).
+Make sure you have Node.js, npm (Node Package Manager), and React Native CLI installed on your machine.
 
 ### Installation
 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/GabrielPradoAffonso/2-App-React-Native.git
-    cd orgs-hooks
+    cd 2-App-React-Native
     ```
 
 2. **Install dependencies:**
@@ -69,7 +69,7 @@ Make sure you have Node.js, npm (Node Package Manager), and React Native CLI ins
 
 ## Contributions 👩‍💻👨‍💻
 
-Contributions are welcome! If you find bugs, have suggestions for improvements, or want to add new features, please open an [issue](https://github.com/your-username/orgs-hooks/issues) or submit a [pull request](https://github.com/your-username/orgs-hooks/pulls).
+Contributions are welcome! If you find bugs, have suggestions for improvements, or want to add new features, please open an issues or submit a pull request.
 
 Feel free to explore, learn, and contribute to OrgsHooks. Happy coding!
 
@@ -108,7 +108,7 @@ Certifique-se de ter o Node.js, npm (Node Package Manager) e React Native CLI in
 1. **Clone o repositório:**
     ```bash
     git clone https://github.com/GabrielPradoAffonso/2-App-React-Native.git
-    cd orgs-hooks
+    cd 2-App-React-Native
     ```
 
 2. **Instale as dependências:**
@@ -147,6 +147,6 @@ Certifique-se de ter o Node.js, npm (Node Package Manager) e React Native CLI in
 
 ## Contribuições 👩‍💻👨‍💻
 
-Contribuições são bem-vindas! Se encontrar bugs, tiver sugestões de melhorias ou quiser adicionar novos recursos, abra uma [issue](https://github.com/seu-usuario/orgs-hooks/issues) ou envie uma [pull request](https://github.com/seu-usuario/orgs-hooks/pulls).
+Contribuições são bem-vindas! Se encontrar bugs, tiver sugestões de melhorias ou quiser adicionar novos recursos, abra uma issue ou envie uma pull request.
 
 Sinta-se à vontade para explorar, aprender e contribuir para o OrgsHooks. Boa codificação!
